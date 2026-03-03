@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar HTML Part 1</title>
+</head>
+<body>
+    <h1>halo Nama saya Rici, </h1>
+    <h2>saya sedang nelajar HTML sampe Muntah</h2>
+    <h6>saya gak punya pacar</h6>
+    <p>ini untuk menulis paragraf</p>
+    <p>ini paragraf 2</p>
+    <p>ini paragraf 3</p>
+    <p>ini contoh tag untuk memanipulasi tampilan : <br>
+       &lt;br&gt; <br> digunakan untuk turun 1 baris<br>
+        &lt;b&gt;&lt;/b&gt;<b></b> digunakan untuk <b>cetak tebal</b><br>
+        <i></i> digunakan untuk <i>cetak miring</i><br>
+        <u></u> digunakan untuk <u>cetak underscore</u><br>
+    </p>
+    <p>https://www.w3schools.com/html/html_entities.asp</p>
+    <hr>
+    <p>&copy; 2026</p>
+</body>
+</html> 
